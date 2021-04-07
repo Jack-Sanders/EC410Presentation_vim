@@ -8,11 +8,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
-
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
 # Vim 
+![Vim Logo](images/VimLogo.svg)
 
 ### What is it?
 Vim is a highly configurable text editor built to enable efficient text editing. 
