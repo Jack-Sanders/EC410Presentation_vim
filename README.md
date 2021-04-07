@@ -1,2 +1,2 @@
 # EC410Presentation_vim
-present on vim in class Wednesday
+Present on Vim in class Wednesday, <i>April 7th</i>
