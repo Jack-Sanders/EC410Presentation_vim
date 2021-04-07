@@ -7,7 +7,7 @@ Vim is distributed free as charityware.
 [source](http://www.vim.org/)
 
 ### When do I use it?
-- Quickly updating a file without opening and IDE.
+- Quickly updating a file without opening an IDE.
 
 ### When don't I use it?
 - If I want to sit down and work on a project for awhile.
