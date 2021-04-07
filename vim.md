@@ -38,8 +38,9 @@ Two main Modes:
 | Right Arrow     | move your cursor up a line in Command or Insert mode  |
 | Esc             | enter Command mode                                    |
 | i               | enter Insert mode                                     |
-
-
+| u               | undo (for when things go wrong                        |
+| :q!             | Quit without saving (for when things go really wrong  |
+| :x              | Write file (if changes have been made) and exit       |
 
 
 
